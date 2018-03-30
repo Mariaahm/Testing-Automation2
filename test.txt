@@ -11,3 +11,5 @@ ISA will success
 will try to push from local repo to backend repo
 
 another trial 
+
+test from powershell script 
